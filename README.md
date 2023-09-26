@@ -22,4 +22,4 @@ repos:
 5. 🎉 From now on, before each commit, `forge fmt` will be ran automatically.
 
 ## NOTE
-You can find all the hooks here that you can use here: https://pre-commit.com/#cli
+You can find how to use the hooks here: https://pre-commit.com/#new-hooks
